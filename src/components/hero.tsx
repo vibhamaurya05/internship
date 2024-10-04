@@ -101,38 +101,42 @@ export default function Home() {
             />
           </div>
 
-
           <div className=" absolute right-[10rem] bottom-[8rem]">
-          <h1 className="text-lg font-medium">CRYSTAL AGATE PHONE GRIP-18.99$ </h1>
-        </div>
-
+            <h1 className="text-lg font-medium">
+              CRYSTAL AGATE PHONE GRIP-18.99${" "}
+            </h1>
+          </div>
         </div>
       </div>
 
       {/********************************/}
       <div className="absolute z-10  bottom-[-5rem] right-[15rem] ">
-        <Image
-          src="/Group113.png"
-          width={230}
-          height={18}
-          alt="dot"
-        />
+        <Image src="/Group113.png" width={230} height={18} alt="dot" />
       </div>
 
       {/********************************/}
       <div className="absolute z-10 bottom-[-8rem] right-[38rem] ">
-        <Image
-          src="/Group103.png"
-          width={130}
-          height={25}
-          alt="dot"
-        />
+        <Image src="/Group103.png" width={130} height={25} alt="dot" />
       </div>
 
       {/* Wave Divider */}
-      <div className="absolute bottom-0 left-0 w-full  top-[10rem]">
+      {/* <div className="absolute bottom-0 left-0 w-full  top-[10rem]">
         <img src="/Vector-1.png" alt="Wave Divider" className="w-full" />
+      </div> */}
+      <div className=" absolute bottom-0 left-0 w-full top-[11rem]">
+        <Image
+          src="/Vector-1.png"
+          alt="Wave Divider"
+          layout="responsive"
+          width={1000}
+          height={500}
+        />
       </div>
     </div>
   );
 }
+
+
+
+
+
