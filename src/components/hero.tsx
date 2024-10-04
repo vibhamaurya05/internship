@@ -102,8 +102,8 @@ export default function Home() {
           </div>
 
           <div className=" absolute right-[10rem] bottom-[8rem]">
-            <h1 className="text-lg font-medium">
-              CRYSTAL AGATE PHONE GRIP-18.99${" "}
+            <h1 className="text-lg font-medium ">
+              CRYSTAL AGATE PHONE GRIP- <span className="text-[#0a294dce] font-semibold">18.99$</span>{" "}
             </h1>
           </div>
         </div>

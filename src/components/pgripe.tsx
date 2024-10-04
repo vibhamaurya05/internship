@@ -22,7 +22,7 @@ const pgripe = () => {
           <div className='absolute flex flex-col justify-evenly text-right  top-[15rem] h-[65vh] w-[35vw] left-[13rem]  '>
             <h2 className='text-[#317189] text-3xl'>BEST PRICE</h2>
             <h1 className='text-[#317189] text-5xl font-semibold'>Agate Phone Grip</h1>
-            <p className='text-[brown] text-5xl font-semibold'>19.50$</p>
+            <p><del className='text-[#317189] text-2xl font-medium '>44.50${" "}</del><span className='text-[brown] text-5xl font-semibold'>19.50$</span></p>
             <p className='text-right'>These Pop Rock Crystal grip tops can be swapped with other tops depending on your mood, outfit, nails, phone case, holiday, etc.! Just gently squeeze the sides to remove and swap out with another color or design!
             </p>
             <button className='h-[8vh] w-[22vh] border border-blue-300 bg-blue-300 text-white text-sm font-semibold px-3 py-2 rounded-2xl ml-[21rem]'>BUY NOW</button>

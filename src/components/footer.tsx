@@ -13,13 +13,13 @@ const footer = () => {
                 alt="logo"/>
             </div>
             <div className="text-center lg:block lg:text-start">
-                <b className="text-[#75CCEB] text-[17px]">Products</b>
+                <b className="text-[#75CCEB] text-[17px]">Blog</b>
                 <ul>
-                    <li className="text-[#d6d5d5] mt-[10px] text-[16px] cursor-pointer">Microphones</li>
-                    <li className="text-[#d6d5d5] mt-[10px] text-[16px] cursor-pointer">Headphones</li>
-                    <li className="text-[#d6d5d5] mt-[10px] text-[16px] cursor-pointer">Interfaces and Mixers</li>
-                    <li className="text-[#d6d5d5] mt-[10px] text-[16px] cursor-pointer">Accessories</li>
-                    <li className="text-[#d6d5d5] mt-[10px] text-[16px] cursor-pointer">Software</li>
+                    <li className="text-[#d6d5d5] mt-[10px] text-[16px] cursor-pointer">AI video generator platform.</li>
+                    <li className="text-[#d6d5d5] mt-[10px] text-[16px] cursor-pointer">Video editor.</li>
+                    <li className="text-[#d6d5d5] mt-[10px] text-[16px] cursor-pointer">Build captivating websites.</li>
+                    <li className="text-[#d6d5d5] mt-[10px] text-[16px] cursor-pointer">User-friendly website.</li>
+                    
                     
                 </ul>
             </div>
@@ -27,10 +27,9 @@ const footer = () => {
             <div className=" text-center lg:block lg:text-start">
                 <b className="text-[#75CCEB] text-[17px]">Support</b>
                 <ul>
-                    <li className="text-[#d6d5d5] mt-[10px] text-[16px] cursor-pointer">Contact Pop Rock Crystal</li>
-                    <li className="text-[#d6d5d5] mt-[10px] text-[16px] cursor-pointer">Service Centre</li>
-                    <li className="text-[#d6d5d5] mt-[10px] text-[16px] cursor-pointer">Warranty</li>
-                    <li className="text-[#d6d5d5] mt-[10px] text-[16px] cursor-pointer">Where to Buy</li>
+                    <li className="text-[#d6d5d5] mt-[10px] text-[16px] cursor-pointer">Contact Pop Rock Crystal.</li>
+                    <li className="text-[#d6d5d5] mt-[10px] text-[16px] cursor-pointer">Service Centre.</li>
+                   
                    
                 </ul>
             </div>
@@ -38,9 +37,9 @@ const footer = () => {
             <div className="text-center lg:block lg:text-start">
                 <b className="text-[#75CCEB] text-[17px]">Company</b>
                 <ul>
-                    <li className="text-[#d6d5d5] mt-[10px] text-[16px] cursor-pointer">About Pop Rock Crystal</li>
-                    <li className="text-[#d6d5d5] mt-[10px] text-[16px] cursor-pointer">News and Info</li>
-                    <li className="text-[#d6d5d5] mt-[10px] text-[16px] cursor-pointer">Job Opportunities</li>
+                    <li className="text-[#d6d5d5] mt-[10px] text-[16px] cursor-pointer">About Pop Rock Crystal.</li>
+                    <li className="text-[#d6d5d5] mt-[10px] text-[16px] cursor-pointer">News and Info.</li>
+                    <li className="text-[#d6d5d5] mt-[10px] text-[16px] cursor-pointer">Job Opportunities.</li>
                 </ul>
                 
             </div>
